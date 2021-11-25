@@ -1,5 +1,5 @@
 const express = require('express')
-const Container = require('../desafio2/contenedor.js')
+const Container = require('./desafio2/contenedor.js')
 
 const app = express()
 const file = new Container('./productos.json')
