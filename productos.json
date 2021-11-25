@@ -1,0 +1,17 @@
+[
+    {
+		"producto": "Bolsa",
+		"precio": 24,
+		"id": 1
+	},
+	{
+		"producto": "Lapiz",
+		"precio": 1,
+		"id": 2
+	},
+	{
+		"producto": "Fibron",
+		"precio": 12,
+		"id": 3
+	}
+]
